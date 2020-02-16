@@ -34,7 +34,6 @@ body {
 
 .navigation-bar {
     background-color: white;
-    position: fixed;
     width: 100%;
     height: 80px;
 }
