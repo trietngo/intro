@@ -38,6 +38,11 @@ body {
     height: 80px;
 }
 
+.nav-item {
+    background-color: white;
+    text-align: right;
+}
+
 /* Intro */
 
 .pfp {
